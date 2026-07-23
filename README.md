@@ -1,6 +1,3 @@
-# Finding-Largest-Number-using-C
-Simple C program to find the largest number.
-
 # Finding Largest Number in C
 
 A simple C program that accepts numbers from the user and determines the largest value using conditional statements.
